@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(228, 239, 249);
+  font-family: 'dejaVu Sans', sans-serif;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+h1 {
+  color: #050e6c;
+  font-size: 36px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  
+}
+
+ul a {
+  text-decoration: none;
+  color:rgb(102, 102, 240);
+  font-size: 18px;
+  font-weight: bold;
+}
+
+ul a:hover {
+  color: rgb(70, 70, 164);
+  font-size: 20px;
+  font-weight: bold;
+}
